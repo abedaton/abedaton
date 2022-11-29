@@ -13,8 +13,8 @@
 <a href="mailto:antoine.bedaton@pm.me">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href="https://pypi.org/user/drkostas/">
-    <img src="https://komarev.com/ghpvc/?username=abedaton&style=flat-square&color=blue" alt="googoldkhan" />
+<a href="https://abedaton.com">
+    <img src="https://komarev.com/ghpvc/?username=abedaton&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
 </a>
 
 <br/> 
