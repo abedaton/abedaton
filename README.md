@@ -2,7 +2,7 @@
 ![Chronoxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=abedaton&show_icons=true&theme=tokyonight)
 
 <a href="https://abedaton.com">
-    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-abedaton.com-orange">
 </a>  
 <a href="https://abedaton.com">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
@@ -28,14 +28,15 @@
 ---
 
 
-### 🔥 My Stats :
+
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abedaton&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D) 
 
 
 
 
 <details>
-    <summary>More stats</summary>
+    <summary>🔥 More stats</summary>
 
 <hr></hr>
 
