@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Antoine+Bedaton;Master+Student+%7C+Software+Engineer;Bots+%7C+Blockchain+%7C+API+%7C+Open+Source)](https://git.io/typing-svg)
 
 <center>
 <img src="https://komarev.com/ghpvc/?username=abedaton&style=flat-square&color=blue" alt=""/>
