@@ -72,6 +72,6 @@
 
 #### Activity Graph
 
-![Zac's github activity graph](https://activity-graph.herokuapp.com/graph?username=abedaton-3&theme=tokyonight)
+![Zac's github activity graph](https://activity-graph.herokuapp.com/graph?username=abedaton&theme=tokyonight)
 
 </details>
