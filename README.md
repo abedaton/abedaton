@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:antoine.bedaton@pm.me">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://pypi.org/user/drkostas/">
     <img src="https://komarev.com/ghpvc/?username=abedaton&style=flat-square&color=blue" alt="googoldkhan" />
