@@ -1,5 +1,5 @@
 
-![Chronoxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=abedaton&show_icons=true&theme=tokyonight)
+![Chronoxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=abedaton&show_icons=true&theme=tokyonight&count_private=true)
 
 <a href="https://abedaton.com">
     <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
