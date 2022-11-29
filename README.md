@@ -9,7 +9,11 @@
 ---
 
 ### 👨‍💻 About Me
+* 🎓Studying **Computer Science**, especially **AI** and **Software Engineer** @ [The Université Libre de Bruxelles](https://www.ulb.be).
 
+* 💡Open to collaborate on **Open Source** projects and **innovative ideas**.
+
+* 📖 Currently writing my Master thesis on **Blockchain**.
 ---
 
 ### 🛠 Languages and Tools :
