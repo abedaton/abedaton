@@ -19,9 +19,6 @@
 
 <br/> 
 
-</p>
----
-
 ### 👨‍💻 About Me
 * 🎓Studying **Computer Science**, especially **AI** and **Software Engineer** @[The Université Libre de Bruxelles](https://www.ulb.be).
 
@@ -63,3 +60,18 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abedaton&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abedaton&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<details>
+    <summary>More stats</summary>
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TechWiz-3&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abedaton&theme=tokyonight&layout=compact) 
+
+<hr></hr>
+
+#### Activity Graph
+
+![Zac's github activity graph](https://activity-graph.herokuapp.com/graph?username=abedaton-3&theme=tokyonight)
+
+</details>
