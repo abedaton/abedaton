@@ -2,7 +2,7 @@
 ![Chronoxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=abedaton&show_icons=true&theme=tokyonight)
 
 <a href="https://abedaton.com">
-    <img src="https://img.shields.io/badge/Website-abedaton.com-orange">
+    <img src="https://img.shields.io/badge/Website-abedaton.com-red">
 </a>  
 <a href="https://abedaton.com">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
