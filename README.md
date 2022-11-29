@@ -1,9 +1,7 @@
-<p align="center">
-<a href="www.abedaton.com">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Antoine+Bedaton;Master+Student+%7C+Software+Engineer;Bots+%7C+Blockchains+%7C+API+%7C+Open+Source" alt="Typing SVG" />
-</a>
-<br/>
 
+<center>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+</center>
 <a href="https://abedaton.com">
     <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
 </a>  
