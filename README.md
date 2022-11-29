@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Antoine+Bedaton;Master+Student+%7C+Software+Engineer;Bots+%7C+Blockchain+%7C+API+%7C+Open+Source)](https://git.io/typing-svg)
+<p align="center">
+<a href="www.abedaton.com">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Antoine+Bedaton;Master+Student+%7C+Software+Engineer;Bots+%7C+Blockchains+%7C+API+%7C+Open+Source" alt="Typing SVG" />
+</a>
+<br/>
 
 <center>
 <img src="https://komarev.com/ghpvc/?username=abedaton&style=flat-square&color=blue" alt=""/>
