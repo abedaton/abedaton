@@ -4,14 +4,33 @@
 </a>
 <br/>
 
-<center>
-<img src="https://komarev.com/ghpvc/?username=abedaton&style=flat-square&color=blue" alt=""/>
-</center>
+<a href="https://abedaton.com">
+    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
+</a>  
+<a href="https://abedaton.com">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+<a href="https://www.linkedin.com/in/abedaton">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:antoine.bedaton@pm.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+</a>
+<a href="https://pypi.org/user/drkostas/">
+    <img src="https://komarev.com/ghpvc/?username=abedaton&style=flat-square&color=blue" alt="googoldkhan" />
+</a>
 
+<br/> 
+
+<a href="https://github.com/drkostas">
+    <img src="https://github-stats-alpha.vercel.app/api?username=abedaton&cc=000&tc=fff&ic=fff&bc=000">
+</a>
+
+</p>
 ---
 
 ### 👨‍💻 About Me
-* 🎓Studying **Computer Science**, especially **AI** and **Software Engineer** @ [The Université Libre de Bruxelles](https://www.ulb.be).
+* 🎓Studying **Computer Science**, especially **AI** and **Software Engineer** @[The Université Libre de Bruxelles](https://www.ulb.be).
 
 * 💡Open to collaborate on **Open Source** projects and **innovative ideas**.
 
