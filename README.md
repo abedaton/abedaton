@@ -17,6 +17,8 @@
     <img src="https://komarev.com/ghpvc/?username=abedaton&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
 </a>
 
+
+
 <br/> 
 
 ### 👨‍💻 About Me
@@ -25,6 +27,8 @@
 * 💡Open to collaborate on **Open Source** projects and **innovative ideas**.
 
 * 📖 Currently writing my Master thesis on **Blockchain**.
+
+* 💻 Currently in an Internship @[EUROCONTROL](https://www.eurocontrol.int) as Software Engineer.
 ---
 
 
@@ -32,23 +36,6 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abedaton&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D) 
 
-
-
-
-<details>
-    <summary>🔥 More stats</summary>
-
-<hr></hr>
-
-#### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abedaton&theme=tokyonight&layout=compact) 
-
-
-#### Activity Graph
-
-![Zac's github activity graph](https://activity-graph.herokuapp.com/graph?username=abedaton&theme=github)
-
-</details>
 
 <details>
 <summary>🛠 Languages and Tools :</summary>
@@ -79,3 +66,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
 
 </div>
+
+
+<details>
+    <summary>🔥 More stats</summary>
+
+<hr></hr>
+
+#### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abedaton&theme=tokyonight&layout=compact) 
+
+
+#### Activity Graph
+
+![Zac's github activity graph](https://activity-graph.herokuapp.com/graph?username=abedaton&theme=github)
+
+</details>
+
