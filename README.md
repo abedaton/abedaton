@@ -22,13 +22,11 @@
 <br/> 
 
 ### 👨‍💻 About Me
-* 🎓Studying **Computer Science**, especially **AI** and **Software Engineer** @[The Université Libre de Bruxelles](https://www.ulb.be).
+* 🎓Studied **Computer Science**, especially **AI** and **Software Engineer** @[The Université Libre de Bruxelles](https://www.ulb.be).
 
 * 💡Open to collaborate on **Open Source** projects and **innovative ideas**.
 
-* 📖 Currently writing my Master thesis on **Blockchain**.
-
-* 💻 Currently in an Internship @[EUROCONTROL](https://www.eurocontrol.int) as Software Engineer.
+* 💻 Currently System Engineer @[EUROCONTROL](https://www.eurocontrol.int) as Software Engineer.
 ---
 
 
